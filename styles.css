@@ -75,7 +75,7 @@ h1{
     font-weight: 700;
     color: hsl(245, 75%, 52%);
 }
-.change:active{
+.change:hover{
     color: hsl(255, 75%, 60%);
     text-decoration: none;
 }
@@ -93,7 +93,7 @@ h1{
     text-decoration: none;
     color: white; 
 }
-.pay-buttom:active{
+.pay-buttom:hover{
     text-decoration: none;
     background-color: hsl(255, 75%, 60%);
 }
@@ -107,7 +107,7 @@ h1{
     color: hsl(224, 23%, 45%);
     font-weight: 700;
 }
-.cancel-buttom a:active{
+.cancel-buttom a:hover{
     color: hsl(223, 47%, 23%);
 }
 .attribution { 
